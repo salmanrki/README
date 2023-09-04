@@ -1,4 +1,4 @@
-# README
+# Salman RK - SEO and Mobile App Development Expert
 Welcome to my GitHub profile! I'm Salman RK, a seasoned professional with over 12 years of experience in the fields of SEO and Mobile App Development. I've dedicated my career to mastering these domains and have become an expert in both industries.
 
 About Me
@@ -18,6 +18,7 @@ Facebook
 Instagram
 LinkedIn
 Twitter
+
 Let's connect and discuss how I can assist you in achieving your online goals, whether it's improving your website's visibility, developing a mobile app, or any other digital project.
 
 Thank you for visiting my GitHub profile!
