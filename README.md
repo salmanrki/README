@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/salmanrk/salmanrk/blob/main/assets/profile.jpg" width="300" height="300">
+  <img src="https://avatars.githubusercontent.com/u/21275163?v=4" width="300" height="300">
 </p>
 
 # Salman RK
