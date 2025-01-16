@@ -1,6 +1,4 @@
-Sure, here's an enhanced version of your `README.md` file with additional cool elements for developers:
 
-```markdown
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/21275163?v=4" width="300" height="300">
 </p>
